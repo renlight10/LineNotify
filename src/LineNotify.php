@@ -1,6 +1,6 @@
 <?php
 namespace renlight10\LineNotify;
-class Notification {
+class LineNotify {
 	protected $token;
 	protected $message;
 	protected $imageThumbnail;
