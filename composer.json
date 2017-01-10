@@ -1,0 +1,26 @@
+{
+    "name": "renlight10/line-notify",
+    "description": "send notification to line notify",
+    "keywords": [
+        "line",
+        "notify",
+        "notification"
+    ],
+    "homepage": "https://github.com/renlight10/LineNotify",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "ren",
+            "email": "ren_ice@live.com"
+        }
+    ],
+    "require": {
+        "php" : ">=5.3.0"
+        },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "renlight10\\LineNotify\\": "src/"
+        }
+    }
+}
